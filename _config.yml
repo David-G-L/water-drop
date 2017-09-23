@@ -1,9 +1,8 @@
 # Site settings
 title: Water Drop
-email: your-email@domain.com
+email: david.garcia@feem.it
 url: https://david-g-l.github.io/water-drop
 description: "Droughts and Water Scarcity in the EU:<br> Economic Impact, Adaptation, Policy Implications and Integrated Assessment Modelling"
-baseurl: "/grayscale-theme"
 
 # Color settings
 color:
@@ -11,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
