@@ -1,10 +1,26 @@
 # Site settings
-title: Water Drop
+title: WATER DROP
 email: david.garcia@feem.it
 url: https://David-G-L.github.io/water-drop
 description: "Droughts and Water Scarcity in the EU:<br> Economic Impact, Adaptation, Policy Implications and Integrated Assessment Modelling"
 
-# Color settings
+owner:
+  name: David 
+  surname: Garc&iacutea-Le&oacuten
+  avatar: photo-me-2.jpg
+  bio: "Marie Sk&#322;odowska-Curie Research Fellow (FEEM, Venice)."
+  email: david.garcia-at-feem-dot-it
+  github: david-g-l
+  ideas: pga787
+  orcid: /0000-0002-3205-7613
+  scholar: _MrQ0wsAAAAJ
+  researchgate: David_Garcia-Leon2
+  disqus-shortname: davidgl
+  feed: true
+  google: 
+    analytics: UA-56785827-2
+    
+# Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
   links: '#219ab3'
