@@ -1,24 +1,14 @@
 # Site settings
 title: WATER DROP
 email: david.garcia@feem.it
-url: https://David-G-L.github.io/water-drop
+url: 
 description: "Droughts and Water Scarcity in the EU:<br> Economic Impact, Adaptation, Policy Implications and Integrated Assessment Modelling"
 
 owner:
   name: David 
   surname: Garc&iacutea-Le&oacuten
-  avatar: photo-me-2.jpg
-  bio: "Marie Sk&#322;odowska-Curie Research Fellow (FEEM, Venice)."
-  email: david.garcia-at-feem-dot-it
-  github: david-g-l
-  ideas: pga787
-  orcid: /0000-0002-3205-7613
-  scholar: _MrQ0wsAAAAJ
-  researchgate: David_Garcia-Leon2
-  disqus-shortname: davidgl
-  feed: true
   google: 
-    analytics: UA-56785827-2
+    analytics: UA-56785827-4
     
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -30,17 +20,9 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-
+ # - title: twitter
+ #   url: https://twitter.com/SBootstrap
+ 
 # Build settings
 markdown: kramdown
 permalink: pretty
